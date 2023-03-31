@@ -90,5 +90,19 @@
       "link": "https://www.youtube.com/embed/NZLbTuBDhJg",
       "id": 18
     }
+  ],
+  "History": [
+    {
+      "id": 4,
+      "name": "How Quantum Computers Break The Internet... Starting Now ",
+      "category": "Education",
+      "link": "https://www.youtube.com/embed/-UrdExQW0cs"
+    },
+    {
+      "id": 1,
+      "name": "Ghosted",
+      "category": "Entertainment",
+      "link": "https://www.youtube.com/embed/IAdCsNtEuBU"
+    }
   ]
 }
